@@ -12,7 +12,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. CleanCoin is the name of open source
 software which enables the use of this currency.
 
-CleanCoin is built on top of CleanCoin Core. The difference between the two
+CleanCoin is built on top of Bitcoin Core. The difference between the two
 is the consensus algorithm: CleanCoin uses Proof of Stake consensus, whilst
 Bitcoin uses Proof of Work. Using Proof of Stake as a consensus algorithm is
 allowing it not only to scale better and be orders of magnitude more efficient in
