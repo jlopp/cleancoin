@@ -761,7 +761,7 @@
         <translation>수령인이 현재 더스트 임계값보다 작은 양을 수신하면 이 라벨이 빨간색으로 변합니다.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>입력마다 +/- %1 사토시가 변할 수 있습니다.</translation>
     </message>
     <message>

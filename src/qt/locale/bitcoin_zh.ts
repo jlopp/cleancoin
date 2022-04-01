@@ -745,8 +745,8 @@
         <translation>如果任何接收方接收到的金额小于当前粉尘交易的阈值，则此标签将变为红色。</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>每个输入可以改变+/- %1 satoshi(s)。</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>每个输入可以改变+/- %1 greta(s)。</translation>
     </message>
     <message>
         <source>(no label)</source>

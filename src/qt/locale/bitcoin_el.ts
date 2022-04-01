@@ -761,8 +761,8 @@
         <translation>Αυτή η ετικέτα γίνεται κόκκινη εάν οποιοσδήποτε παραλήπτης λάβει ένα ποσό μικρότερο από το τρέχον όριο σκόνης.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Μπορεί να ποικίλει +/- %1 satoshi(s) ανά είσοδο.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Μπορεί να ποικίλει +/- %1 greta(s) ανά είσοδο.</translation>
     </message>
     <message>
         <source>(no label)</source>

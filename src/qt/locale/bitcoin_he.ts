@@ -805,7 +805,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation>תווית זו הופכת לאדומה אם מישהו מהנמענים מקבל סכום נמוך יותר מסף האבק הנוכחי.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>יכול להשתנות במגמה של +/- %1 סנטושי לקלט.</translation>
     </message>
     <message>

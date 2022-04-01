@@ -807,8 +807,8 @@ Il n’est possible de signer qu’avec les adresses de type « legacy ».</tr
         <translation>Cette étiquette devient rouge si un destinataire reçoit un montant inférieur au seuil actuel de poussière.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Peut varier +/- %1 satoshi(s) par entrée.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Peut varier +/- %1 greta(s) par entrée.</translation>
     </message>
     <message>
         <source>(no label)</source>

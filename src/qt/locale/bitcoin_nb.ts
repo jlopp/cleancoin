@@ -761,8 +761,8 @@
         <translation>Denne merkelappen blir rød hvis en mottaker får mindre enn gjeldende støvterskel.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Kan variere +/- %1 satoshi(er) per input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Kan variere +/- %1 greta(er) per input.</translation>
     </message>
     <message>
         <source>(no label)</source>

@@ -805,8 +805,8 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation>Ez a címke pirosra változik, ha bármely fogadóhoz, a porszem határértéknél kevesebb összeg érkezik.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Megadott értékenként  +/- %1 satoshi-val változhat.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Megadott értékenként  +/- %1 greta-val változhat.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2401,7 +2401,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 gretas per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 gretas.</source>
         <translation>Add meg a választott tranzakciós díjat kB (1000 bájt) -onként a tranzakció virtuális méretére számolva.
 
-Figyelem: Mivel bájtonként lesz a dj kiszámolva ezért a "100 satoshi per kB" egy 500 bájtos (fél kB) tranzakciónál  ténylegesen 50 satoshi lesz.</translation>
+Figyelem: Mivel bájtonként lesz a dj kiszámolva ezért a "100 greta per kB" egy 500 bájtos (fél kB) tranzakciónál  ténylegesen 50 greta lesz.</translation>
     </message>
     <message>
         <source>per kilobyte</source>

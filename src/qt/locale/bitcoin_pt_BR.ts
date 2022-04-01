@@ -807,8 +807,8 @@ Somente é possível assinar com endereços do tipo 'legado'.</translation>
         <translation>Este texto fica vermelho se qualquer destinatário receber uma quantidade menor que o limite atual para poeira.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Pode variar +/- %1 satoshi(s) por entrada</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Pode variar +/- %1 greta(s) por entrada</translation>
     </message>
     <message>
         <source>(no label)</source>

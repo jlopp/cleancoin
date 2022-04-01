@@ -807,8 +807,8 @@ Signing is only possible with addresses of the type 'legacy'.</translation>
         <translation>This label turns red if any recipient receives an amount smaller than the current dust threshold.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Can vary +/- %1 satoshi(s) per input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Can vary +/- %1 greta(s) per input.</translation>
     </message>
     <message>
         <source>(no label)</source>

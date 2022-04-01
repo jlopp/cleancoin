@@ -517,7 +517,7 @@ static UniValue getstakingstatus(const JSONRPCRequest& request)
     return obj;
 }
 
-// NOTE: Unlike wallet RPC (which use CLN values), mining RPCs follow GBT (BIP 22) in using satoshi amounts
+// NOTE: Unlike wallet RPC (which use CLN values), mining RPCs follow GBT (BIP 22) in using greta amounts
 static RPCHelpMan prioritisetransaction()
 {
     return RPCHelpMan{"prioritisetransaction",

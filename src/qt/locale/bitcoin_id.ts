@@ -761,8 +761,8 @@
         <translation>Label ini akan menjadi merah apabila penerima menerima jumlah yang lebih kecil daripada ambang habuk semasa.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Dapat bervariasi +/- %1 satoshi per input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Dapat bervariasi +/- %1 greta per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2199,7 +2199,7 @@
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 gretas per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 gretas.</source>
         <translation>Tentukan biaya khusus per kB (1.000 byte) dari ukuran transaksi maya.
 
-Catatan: Karena biaya dihitung berdasarkan per byte, biaya "100 satoshi per kB" untuk ukuran transaksi 500 byte (setengah dari 1 kB) pada akhirnya akan menghasilkan biaya hanya 50 satoshi.</translation>
+Catatan: Karena biaya dihitung berdasarkan per byte, biaya "100 greta per kB" untuk ukuran transaksi 500 byte (setengah dari 1 kB) pada akhirnya akan menghasilkan biaya hanya 50 greta.</translation>
     </message>
     <message>
         <source>per kilobyte</source>

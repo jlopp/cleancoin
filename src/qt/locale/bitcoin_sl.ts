@@ -811,7 +811,7 @@ Podpisovanje je možno le s podedovanimi ("legacy") naslovi.</translation>
         <translation>Ta oznaka se spremeni v rdeče, če katerikoli prejemnik prejme znesek, ki je manjši od trenutnega praga za prah.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>Se lahko razlikuje +/- %1 satoši(jev) na vhod.</translation>
     </message>
     <message>
@@ -2423,7 +2423,7 @@ Podpisovanje je možno le s podedovanimi ("legacy") naslovi.</translation>
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 gretas per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 gretas.</source>
         <translation>Določite poljubno provizijo na kB (1000 bajtov) navidezne velikosti transakcije.
 
-Opomba: Ker se provizija izračuna na bajt, bi provizija "100 satoshijev na kB" za transakcijo velikosti 500 bajtov (polovica enega kB) znašala 50 satošijev.</translation>
+Opomba: Ker se provizija izračuna na bajt, bi provizija "100 gretajev na kB" za transakcijo velikosti 500 bajtov (polovica enega kB) znašala 50 satošijev.</translation>
     </message>
     <message>
         <source>per kilobyte</source>
