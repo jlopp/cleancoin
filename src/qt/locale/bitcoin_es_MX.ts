@@ -810,8 +810,8 @@ Solicitar pagos (genera códigos QR y CleanCoin: URI)
         <translation>Esta capa se vuelve roja si algún destinatario recibe un monto menor al actual limite del remanente monetario </translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Can vary +/- %1 satoshi(s) per input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Can vary +/- %1 greta(s) per input.</translation>
     </message>
     <message>
         <source>(no label)</source>

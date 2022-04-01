@@ -748,7 +748,7 @@
         <translation>Oznaka postane crvene boje ako bilo koji primatelj dobije iznos manji od trenutnog praga "prašine" (sićušnog iznosa).</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>Može varirati +/- %1 satoši(ja) po inputu.</translation>
     </message>
     <message>

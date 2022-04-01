@@ -578,7 +578,7 @@ Support for Python 2 has been discontinued for all test files and tools.
 - #12928 `ef006d9` Initialize non-static class members that were previously neither initialized where defined nor in constructor (practicalswift)
 - #13158 `81c533c` Improve sendcoinsdialog readability (marcoagner)
 - #11491 `40c34a0` Add proxy icon in statusbar (mess110)
-- #13264 `2a7c53b` Satoshi unit (GreatSock)
+- #13264 `2a7c53b` Greta unit (GreatSock)
 - #13097 `e545503` Support wallets loaded dynamically (promag)
 - #13284 `f8be434` fix visual "overflow" of amount input (brandonrninefive)
 - #13275 `a315b79` use `[default wallet]` as name for wallet with no name (jonasschnelli)

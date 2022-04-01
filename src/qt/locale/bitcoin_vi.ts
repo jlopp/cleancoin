@@ -761,8 +761,8 @@
         <translation>Label này chuyển sang đỏ nếu bất cứ giao dịch nhận nào có số lượng nhỏ hơn ngưỡng dust.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Có thể thay đổi +/-%1 satoshi(s) trên input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Có thể thay đổi +/-%1 greta(s) trên input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2197,7 +2197,7 @@
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 gretas per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 gretas.</source>
         <translation>Chỉ định một khoản phí tùy chỉnh cho mỗi kB (1.000 byte) kích thước ảo của giao dịch.
 
-Lưu ý: Vì phí được tính trên cơ sở mỗi byte, nên phí "100 satoshi trên mỗi kB" cho kích thước giao dịch là 500 byte (một nửa của 1 kB) cuối cùng sẽ mang lại một khoản phí chỉ 50 satoshi.</translation>
+Lưu ý: Vì phí được tính trên cơ sở mỗi byte, nên phí "100 greta trên mỗi kB" cho kích thước giao dịch là 500 byte (một nửa của 1 kB) cuối cùng sẽ mang lại một khoản phí chỉ 50 greta.</translation>
     </message>
     <message>
         <source>per kilobyte</source>

@@ -761,8 +761,8 @@
         <translation>Denne mærkat bliver rød, hvis en eller flere modtagere modtager et beløb, der er mindre end den aktuelle støvgrænse.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Kan variere med ±%1 satoshi per input.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Kan variere med ±%1 greta per input.</translation>
     </message>
     <message>
         <source>(no label)</source>

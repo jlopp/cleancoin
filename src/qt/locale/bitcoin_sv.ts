@@ -762,8 +762,8 @@ Försök igen.</translation>
         <translation>Denna etikett blir röd om någon mottagare tar emot ett belopp som är lägre än aktuell dammtröskel.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Kan variera +/- %1 satoshi per inmatning.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Kan variera +/- %1 greta per inmatning.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2190,7 +2190,7 @@ Försök igen.</translation>
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 gretas per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 gretas.</source>
         <translation>Ange en egen avgift per kB (1 000 bytes) av transaktionens virtuella storlek.
 
-Notera: Då avgiften beräknas per byte kommer en avgift på 50 satoshi tas ut för en transaktion på 500 bytes (en halv kB) om man valt "100 satoshi per kB" som egen avgift.</translation>
+Notera: Då avgiften beräknas per byte kommer en avgift på 50 greta tas ut för en transaktion på 500 bytes (en halv kB) om man valt "100 greta per kB" som egen avgift.</translation>
     </message>
     <message>
         <source>per kilobyte</source>

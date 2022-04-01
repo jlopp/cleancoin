@@ -807,8 +807,8 @@ Ondertekenen is alleen mogelijk met adressen van het type 'legacy'.</translation
         <translation>Dit label wordt rood, als een ontvanger een bedrag van minder dan de huidige dust-drempel gekregen heeft.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Kan per input +/- %1 satoshi(s)  variëren.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Kan per input +/- %1 greta(s)  variëren.</translation>
     </message>
     <message>
         <source>(no label)</source>

@@ -729,8 +729,8 @@
         <translation>Ši etiketė tampa raudona, jei bet kuris gavėjas gauna mažesnę sumą nei dabartinė dulkių slenkstis.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Gali svyruoti nuo +/-%1 satoshi(-ų) vienam įvedimui.</translation>
+        <source>Can vary +/- %1 greta(s) per input.</source>
+        <translation>Gali svyruoti nuo +/-%1 greta(-ų) vienam įvedimui.</translation>
     </message>
     <message>
         <source>(no label)</source>

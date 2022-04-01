@@ -767,7 +767,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation>Ознака постаје црвена уколико прималац прими износ мањи од износа прашине - сићушног износа.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>Може варирати  +/- %1 сатоши(ја) по инпуту.</translation>
     </message>
     <message>

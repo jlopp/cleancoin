@@ -45,7 +45,7 @@ QString CleanCoinUnits::longName(int unit)
     case BPS: return QString("BPS");
     case mBPS: return QString("mBPS");
     case uBPS: return QString::fromUtf8("µBPS (bits)");
-    case SAT: return QString("Satoshi (sat)");
+    case SAT: return QString("Greta (sat)");
     default: return QString("???");
     }
 }
@@ -67,7 +67,7 @@ QString CleanCoinUnits::description(int unit)
     case BPS: return QString("CleanCoins");
     case mBPS: return QString("Milli-CleanCoins (1 / 1" THIN_SP_UTF8 "000)");
     case uBPS: return QString("Micro-CleanCoins (bits) (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-    case SAT: return QString("Satoshi (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case SAT: return QString("Greta (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }

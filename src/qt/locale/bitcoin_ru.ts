@@ -808,7 +808,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation>Эта метка становится красной, если получатель получит меньшую сумму, чем текущий порог пыли.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 satoshi(s) per input.</source>
+        <source>Can vary +/- %1 greta(s) per input.</source>
         <translation>Может меняться +/- %1 сатоши(ей) за вход.</translation>
     </message>
     <message>
