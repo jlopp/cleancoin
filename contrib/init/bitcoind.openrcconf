@@ -1,0 +1,33 @@
+# /etc/conf.d/CleanCoind: config file for /etc/init.d/CleanCoind
+
+# Config file location
+#CleanCoinD_CONFIGFILE="/etc/CleanCoin/CleanCoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $CleanCoinD_USER)
+#CleanCoinD_PIDDIR="/var/run/CleanCoind"
+
+# What filename to give the pidfile
+#CleanCoinD_PIDFILE="${CleanCoinD_PIDDIR}/CleanCoind.pid"
+
+# Where to write CleanCoind data (be mindful that the blockchain is large)
+#CleanCoinD_DATADIR="/var/lib/CleanCoind"
+
+# User and group to own CleanCoind process
+#CleanCoinD_USER="CleanCoin"
+#CleanCoinD_GROUP="CleanCoin"
+
+# Path to CleanCoind executable
+#CleanCoinD_BIN="/usr/bin/CleanCoind"
+
+# Nice value to run CleanCoind under
+#CleanCoinD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#CleanCoinD_OPTS=""
+
+# The timeout in seconds OpenRC will wait for CleanCoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+CleanCoinD_SIGTERM_TIMEOUT=600
